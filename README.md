@@ -2,7 +2,7 @@
 ## README.md
 
 
-# Real-Time Drone Reconnaissance & Multi-Object Tracking System
+# Real-Time-UAV-Reconnaissance & Multi-Object-Tracking-System-for-Military-Asset-Detection
 
 ## Overview
 
