@@ -6,7 +6,7 @@
 
 ## Overview
 
-This project is an end-to-end UAV reconnaissance pipeline for detecting and tracking military assets such as tanks, armored vehicles, and transport units using drone footage.
+Built an end-to-end UAV perception pipeline for real-time military asset detection and tracking under dense aerial surveillance conditions.
 
 It combines:
 - YOLOv8 for object detection
